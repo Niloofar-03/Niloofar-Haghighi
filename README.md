@@ -18,10 +18,10 @@ I combine expertise in **Cognitive Science**, **Artificial Intelligence**, and *
 
 | 🌸 Project | 🔍 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| [**Dottie: Your Period Bestie**](https://github.com/lmcrean/dottie) | AI-powered menstrual health assistant designed with empathy and UX in mind | Azure AI · Flask · Python · UX/UI |
-| [**VIRA: Voice-Based Banking for Seniors**](https://github.com/Niloofar-03/VIRA)| Accessible voice banking platform focused on senior-friendly design | Azure · Flask · Python · UX Research |
-| [**Stroke Prediction Dashboard**](https://github.com/Niloofar-03/Stroke-Prediction) | Power BI dashboard for healthcare insights and data visualization | Power BI · SQL · Data Visualization |
-| [**Health Risk Prediction Dashboard**](https://github.com/Niloofar-03/HealthRiskDashboard) | Predictive analytics for patient risk factors with interpretable design | Python · Azure · Power BI |
+| **Dottie: Your Period Bestie**| AI-powered menstrual health assistant designed with empathy and UX in mind | Azure AI · Flask · Python · UX/UI |
+| **VIRA: Voice-Based Banking for Seniors**| Accessible voice banking platform focused on senior-friendly design | Azure · Flask · Python · UX Research |
+| **Stroke Prediction Dashboard** | Power BI dashboard for healthcare insights and data visualization | Power BI · SQL · Data Visualization |
+| **Health Risk Prediction Dashboard**| Predictive analytics for patient risk factors with interpretable design | Python · Azure · Power BI |
 
 ---
 
