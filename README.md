@@ -18,10 +18,10 @@ I combine expertise in **Cognitive Science**, **Artificial Intelligence**, and *
 
 | 🌸 Project | 🔍 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| [**Dottie: Your Period Bestie**](https://github.com/yourusername/Dottie) | AI-powered menstrual health assistant designed with empathy and UX in mind | Azure AI · Flask · Python · UX/UI |
-| [**VIRA: Voice-Based Banking for Seniors**](https://github.com/yourusername/VIRA) | Accessible voice banking platform focused on senior-friendly design | Azure · Flask · Python · UX Research |
-| [**Stroke Prediction Dashboard**](https://github.com/yourusername/Stroke-Prediction) | Power BI dashboard for healthcare insights and data visualization | Power BI · SQL · Data Visualization |
-| [**Health Risk Prediction Dashboard**](https://github.com/yourusername/HealthRiskDashboard) | Predictive analytics for patient risk factors with interpretable design | Python · Azure · Power BI |
+| [**Dottie: Your Period Bestie**](https://github.com/Niloofar-03/Dottie) | AI-powered menstrual health assistant designed with empathy and UX in mind | Azure AI · Flask · Python · UX/UI |
+| [**VIRA: Voice-Based Banking for Seniors**](https://github.com/Niloofar-03/VIRA) | Accessible voice banking platform focused on senior-friendly design | Azure · Flask · Python · UX Research |
+| [**Stroke Prediction Dashboard**](https://github.com/Niloofar-03/Stroke-Prediction) | Power BI dashboard for healthcare insights and data visualization | Power BI · SQL · Data Visualization |
+| [**Health Risk Prediction Dashboard**](https://github.com/Niloofar-03/HealthRiskDashboard) | Predictive analytics for patient risk factors with interpretable design | Python · Azure · Power BI |
 
 ---
 
@@ -47,7 +47,7 @@ I combine expertise in **Cognitive Science**, **Artificial Intelligence**, and *
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niloofar%20Haghighi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/niloofarhaghighi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-pink?style=for-the-badge&logo=Portfolio)](https://organic-bird-5e9.notion.site/Niloofar-Haghighi-UX-UI-Product-Designer-AI-Healthcare-283fbe09f48b80a48c83c984ba9a51b2)
-[![Email](https://img.shields.io/badge/Email-niloofar@example.com-red?style=for-the-badge&logo=Email)](nildayfar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email)](nildayfar@gmail.com)
 
 ---
 
